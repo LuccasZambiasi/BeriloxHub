@@ -1,0 +1,32 @@
+# Plugin by HypeerDeveloper #
+# Plugin Replica 100% editavel do BeriloxNetwork #
+
+Prefix: '&6Berilox&fNetwork '
+Prefix2: '&6Berilox&fNetwork {setinha}'
+
+Cor: '&6'
+Cor2: '&e'
+
+FullPvP_Name: 'BeriloxFullPvP'
+KitPvP_Name: 'BeriloxPvP'
+Hg_Name: 'BeriloxHG'
+
+Site: '&ewww.beriloxpvp.com'
+Motd: '&6&lBerilox&f&lNetwork &6{setinha} &7 Agora disponivel varios modos de jogo!'
+
+Msg_Entrar1: '&f Bem vindo ao servidor &6&lBerilox&f&lNetwork'
+Msg_Entrar2: '&f Seridor está na vers�o 2.0'
+Msg_Entrar3: '&f Voce se conectou ao: &aLOBBY&f.'
+
+Nome_Da_Score: '    &6&lBerilox&f&lNetwork    '
+Ip_Da_Score: 'mc.berilox.tk'
+
+Stats_KitPvP: '&a&lON'
+Stats_Hg: '&a&lON'
+Stats_FullPvP: '&a&lON'
+
+Sem_Permissao: '&4Voce nao tem permissao para esse comando!'
+
+Novidade: '&eFullPvP'
+
+Conectado: '&eLobby'
